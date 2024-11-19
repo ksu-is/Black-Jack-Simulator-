@@ -1,8 +1,7 @@
 # Black-Jack-Simulator-
 This is a Blackjack simulator game, built to model basic Blackjack gameplay mechanics. The project will includes options for actions like hit, stand, and double down, similar to the casino setting.
 
-#Game Updates #1
-Key Updates Made to the Code
+Game Updates #1
 
 1. Basic Game Structure and Enhancements
 
