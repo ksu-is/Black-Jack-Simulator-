@@ -10,13 +10,13 @@
 - [x] Complete the Sprint 1 quiz
 
 # Sprint 2
-- [ ] Implement basic game structure (card deck setup, shuffling, dealing to player and dealer)
-- [ ] Add functions for key actions (Hit, Stand) and dealer behavior
-- [ ] Update README with detailed project description and gameplay rules
-- [ ] Develop probability calculations to display basic odds during gameplay
-- [ ] Commit each major update with clear, descriptive messages
-- [ ] Test the flow for basic player vs. dealer gameplay
-- [ ] Complete the Sprint 2 quiz
+- [x] Implement basic game structure (card deck setup, shuffling, dealing to player and dealer)
+- [x] Add functions for key actions (Hit, Stand) and dealer behavior
+- [x] Update README with detailed project description and gameplay rules
+- [x] Develop probability calculations to display basic odds during gameplay
+- [x] Commit each major update with clear, descriptive messages
+- [x] Test the flow for basic player vs. dealer gameplay
+- [x] Complete the Sprint 2 quiz
 
 # Sprint 3
 - [ ] Prepare a PowerPoint summarizing project objectives and key features
