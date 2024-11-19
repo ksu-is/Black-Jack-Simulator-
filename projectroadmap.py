@@ -1,6 +1,6 @@
 # Blackjack Simulator
 
-# Sprint 1
+# Sprint 1: Completed 11/11/2024
 - [x] Submit the initial project proposal
 - [x] Set up the project repository for Blackjack Simulator
 - [x] Research and review basic Blackjack rules and game flow
@@ -9,7 +9,7 @@
 - [x] Add the project roadmap to the repository
 - [x] Complete the Sprint 1 quiz
 
-# Sprint 2
+# Sprint 2: Completed 11/18/2024
 - [x] Implement basic game structure (card deck setup, shuffling, dealing to player and dealer)
 - [x] Add functions for key actions (Hit, Stand) and dealer behavior
 - [x] Update README with detailed project description and gameplay rules
