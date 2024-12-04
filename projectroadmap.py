@@ -19,7 +19,7 @@
 - [x] Complete the Sprint 2 quiz
 
 # Sprint 3
-- [ ] Prepare a PowerPoint summarizing project objectives and key features
-- [ ] Add screenshots or sample output to showcase game functionality
-- [ ] Review code for clarity and functionality; ensure all primary features are working
-- [ ] Complete the Sprint 3 assignment
+- [x] Prepare a PowerPoint summarizing project objectives and key features
+- [x] Add screenshots or sample output to showcase game functionality
+- [x] Review code for clarity and functionality; ensure all primary features are working
+- [x] Complete the Sprint 3 assignment
